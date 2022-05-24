@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anastasiya Golubeva aka @msmarjorine.
 - 🏠 I live in Brest, Belarus.
 - 🤓 I work as a QA Engineer.
-- 🌱 I’m currently learning HTML&CSS and hope to tackle JS soon.
 - 📫 Email: marjorine13@gmail.com
 
 <!---
